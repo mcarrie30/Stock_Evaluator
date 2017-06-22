@@ -2,6 +2,8 @@
 
 This project I analyze and predict a Stock Return based on tweets and previous day stats(Volatility, momentum, etc.)
 
+![shinydb](db.gif)
+
 ## Built With
 
 ##### Languages
@@ -25,9 +27,7 @@ This project I analyze and predict a Stock Return based on tweets and previous d
 * Matplotlib
 
 
-![shinydb](db.gif)
-
-##### Data
+##### Data(Not all Data is added to github yet)
 * MongoDB
 * Finviz
 * AWS
